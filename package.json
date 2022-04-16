@@ -1,0 +1,30 @@
+{
+  "name": "eye-catching-sidebar-menu",
+  "version": "1.0.0",
+  "description": "Sidebar navigation menu with eye-catching animation using only HTML, SCSS, and Javascript.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.6.1",
+    "sass": "1.49.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": [
+    "side nav",
+    "menu",
+    "hamburger menu",
+    "animation",
+    "sidebar",
+    "navigation",
+    "side navigation"
+  ]
+}
